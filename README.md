@@ -32,3 +32,12 @@ or
 __./Optimized [x]__
 
 Where x is the desired value of ε. Note that the Optimized version runs slower the bigger ε is.
+
+Note that in the assignment report, a bigger value of K is used (100,000). I have made it smaller in the programs so they would run faster for demonstrative purposes.
+
+Some examples of the programs:
+
+![image](https://user-images.githubusercontent.com/91853323/215660655-98e0f166-4413-472c-a5a6-b4ec9f0fd310.png)
+
+![image](https://user-images.githubusercontent.com/91853323/215660755-71abbcbf-b086-4b77-a72a-709811fc9f61.png)
+
